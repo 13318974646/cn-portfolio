@@ -2,7 +2,7 @@
 
 机械设计制造及其自动化 · 结构设计与整机建模
 
-**在线预览**：https://YOUR-USERNAME.github.io/YOUR-REPO/
+**在线预览**：[https://YOUR-USERNAME.github.io/YOUR-REPO/](https://cn-portfolio-13318974646.netlify.app/)
 
 ---
 
